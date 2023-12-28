@@ -1,0 +1,9 @@
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alex\Downloads\PCGERENTE\Factura\CapaNegocio\obj\Debug\CapaNegocio.pdb
